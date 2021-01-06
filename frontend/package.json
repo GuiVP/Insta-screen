@@ -17,7 +17,7 @@
     "@types/react-router-dom": "^5.1.5",
     "@types/react-text-mask": "^5.4.6",
     "@types/socket.io-client": "^1.4.33",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "express": "^4.17.1",
     "node": "^14.4.0",
     "node-sass": "^4.14.1",
